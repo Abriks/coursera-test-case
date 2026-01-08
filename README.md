@@ -1,2 +1,5 @@
 # coursera-test-case
-# Created as part of the hands-on for my Software Engineering Program
+
+## Editing the file
+
+It's a markdown file in this repository
